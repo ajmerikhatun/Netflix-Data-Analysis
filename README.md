@@ -3,6 +3,7 @@ This project presents an interactive Power BI dashboard built to analyze Netflix
 
 🎯 Project Objective
 The objective of this project is to:
+
 ✅ Explore Netflix’s global content dataset to uncover trends and patterns.
 ✅ Provide an interactive dashboard for stakeholders to analyze content distribution.
 ✅ Extract insights that can help optimize content strategies and business decisions.
