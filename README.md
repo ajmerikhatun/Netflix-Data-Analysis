@@ -7,13 +7,12 @@ The objective of this project is to:
 ✅ Provide an interactive dashboard for stakeholders to analyze content distribution.
 ✅ Extract insights that can help optimize content strategies and business decisions.
 
-📂 Project Files
+## 📂 Project Files  
 
-📁 netflix_analysis.pbix – Power BI dashboard file
-
-📁 netflix_dataset.csv – Dataset used for analysis
-
-🖼️ netflix_dashboard_image.png – Dashboard preview image
+- 📁 [netflix_analysis.pbix](netflix_analysis.pbix) – Power BI dashboard file  
+- 📁 [netflix_dataset.csv](netflix_dataset.csv) – Dataset used for analysis  
+- 🖼️ [netflix_dashboard_image.png](netflix_dashboard_image.png) – Dashboard preview image  
+- 📄 [README.md](README.md) – Project documentation  
 
 
 📈 Key Business Questions & Insights
@@ -64,7 +63,9 @@ Power Query: For data cleaning & transformation
 
 Dataset: https://www.kaggle.com/shivamb/netflix-shows
 
-📸 Dashboard Preview - netflix_dashboard_image.png
+## 📸 Dashboard Preview  
+
+[![Netflix Dashboard](netflix_dashboard_image.png)](netflix_dashboard_image.png)  
 
 🚀 Why this Project Matters
 This project demonstrates how data visualization enables businesses like Netflix to:
