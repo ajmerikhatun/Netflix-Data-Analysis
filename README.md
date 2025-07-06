@@ -8,11 +8,12 @@ The objective of this project is to:
 ✅ Extract insights that can help optimize content strategies and business decisions.
 
 📂 Project Files
-📁 Netflix_Data_Analysis.pbix – Power BI dashboard file
 
-📁 Netflix_Dataset.csv – Dataset used for analysis
+📁 netflix_analysis.pbix – Power BI dashboard file
 
-🖼️ Netflix_Dashboard.png – Dashboard preview image
+📁 netflix_dataset.csv – Dataset used for analysis
+
+🖼️ netflix_dashboard_image.png – Dashboard preview image
 
 
 📈 Key Business Questions & Insights
@@ -63,7 +64,7 @@ Power Query: For data cleaning & transformation
 
 Dataset: https://www.kaggle.com/shivamb/netflix-shows
 
-📸 Dashboard Preview
+📸 Dashboard Preview - netflix_dashboard_image.png
 
 🚀 Why this Project Matters
 This project demonstrates how data visualization enables businesses like Netflix to:
